@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Single-Page Resume | Swagatika Sahoo</title>
+</head>
+
+<body>
+  <!-- HEADER / NAME -->
+  <header>
+    <h1>Swagatika Sahoo</h1>
+    <p>
+      <strong>Role:</strong> Aspiring Web Developer |
+      <strong>Location:</strong> Michigan, USA
+    </p>
+    <p>
+      <strong>Email:</strong> swagatika07@gmail.com |
+      <strong>Phone:</strong> (555) 123-4567 |
+      <strong>LinkedIn:</strong> linkedin.com/in/Swagatika |
+      <strong>GitHub:</strong> github.com/Swagatika
+    </p>
+    <hr />
+  </header>
+
+  <!-- ABOUT -->
+  <main>
+    <section>
+      <h2>About</h2>
+      <p>
+        I am a motivated learner building strong foundations in HTML, CSS, and web development.
+        I enjoy creating clean, semantic pages and practicing through hands-on projects.
+        My goal is to become job-ready by consistently building portfolio work and improving every week.
+      </p>
+      <hr />
+    </section>
+
+    <!-- SKILLS LIST -->
+    <section>
+      <h2>Skills</h2>
+      <ul>
+        <li>HTML5 </li>
+        <li>CSS3 </li>
+        <li>JavaScript Basics</li>
+        <li>Git and GitHub</li>
+        <li>Python</li>
+      </ul>
+      <hr />
+    </section>
+
+    <!-- EXPERIENCE TABLE -->
+    <section>
+      <h2>Experience</h2>
+      <table border="1" cellpadding="8">
+        <thead>
+          <tr>
+            <th>Company</th>
+            <th>Role</th>
+            <th>Duration</th>
+            <th>Key Work</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Twig power</td>
+            <td>Software Developer </td>
+            <td>Feb 2024 - Jan 2025</td>
+            <td>
+              Part of a specialized development team and involved in the design and development of diagnostic software tool (E-Scope) that helps detect issues and communicate with the electric motor bike system for both production and customer-facing environment.
+            </td>
+          </tr>
+          <tr>
+            <td>Freelance</td>
+            <td>Web Developer (Practice Projects)</td>
+            <td>2024 - Present</td>
+            <td>
+              Created multiple  websites including landing pages, forms, and product pages.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <hr />
+    </section>
+
+    <!-- PROJECTS -->
+    <section>
+      <h2>Projects</h2>
+
+      <article>
+        <h3>1) Portfolio Website</h3>
+        <p>
+          A single-page portfolio showcasing about, skills, and projects using semantic HTML and responsive layout.
+        </p>
+        <ul>
+          <li>Used sections and proper headings</li>
+          <li>Included navigation and contact details</li>
+          <li>Optimized structure for readability</li>
+        </ul>
+      </article>
+
+      <article>
+        <h3>2) Product Page</h3>
+        <p>
+          Built a complete product page with images, features, specification table, video demo, and order form.
+        </p>
+        <ul>
+          <li>Used tables with thead/tbody</li>
+          <li>Created form validations and labels</li>
+          <li>Included multimedia elements</li>
+        </ul>
+      </article>
+
+      <article>
+        <h3>3) Multimedia Page</h3>
+        <p>
+          Created an HTML5 multimedia page with video captions, audio player, iframe embed, SVG, and canvas.
+        </p>
+        <ul>
+          <li>Used track captions (.vtt)</li>
+          <li>Embedded external content with iframe</li>
+          <li>Drew shapes using SVG and canvas</li>
+        </ul>
+      </article>
+
+      <hr />
+    </section>
+
+    <!-- EDUCATION TABLE -->
+    <section>
+      <h2>Education</h2>
+      <table border="1" cellpadding="8">
+        <thead>
+          <tr>
+            <th>Institution</th>
+            <th>Program/Degree</th>
+            <th>Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>BPUT</td>
+            <td>Master of Computer Applications</td>
+            <td>2004 - 2007</td>
+          </tr>
+          <tr>
+            <td>Utkal Universiy</td>
+            <td>Master of Science(Mathematics)</td>
+            <td>2002 - 2004</td>
+          </tr>
+        </tbody>
+      </table>
+      <hr />
+    </section>
+
+    <!-- CONTACT DETAILS -->
+    <section>
+      <h2>Contact</h2>
+      <p>If you'd like to connect, reach me here:</p>
+      <ul>
+        <li><strong>Email:</strong> swagatika07@gmail.com</li>
+        <li><strong>Phone:</strong> (555) 123-4567</li>
+        <li><strong>LinkedIn:</strong> linkedin.com/in/Swagatika</li>
+        <li><strong>GitHub:</strong> github.com/Swagatika</li>
+        <li><strong>Portfolio:</strong> yourwebsite.com</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <hr />
+    <p>© 2026 Swagatika Sahoo. All rights reserved.</p>
+  </footer>
+</body>
+</html>
