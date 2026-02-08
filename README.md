@@ -17,7 +17,13 @@ It includes semantic sections like **Header/Name, About, Skills, Experience Tabl
 ## Setup (Run Locally)
 You can run this project locally in **any browser**. 
 
-### Option 1: Using VS Code Live Server (Recommended)
+### Option 1: Download
+1. Download the index.html file to your local machine.
+2. double-click on the downloaded `index.html` file.
+4. Your browser will open the webpage.
+
+
+### Option 2: Using VS Code Live Server (Recommended)
 1. Install **VS Code**
 2. Install the extension: **Live Server**
 3. Right-click `index.html` → **Open with Live Server**
