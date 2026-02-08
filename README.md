@@ -1,7 +1,7 @@
  Assignments-SingleResumePage
 # Single-Page Resume Website (HTML Only)
 
-A clean, single-page **resume website built using only HTML** (no CSS required for this assignment).  
+A clean, single-page resume 
 It includes semantic sections like **Header/Name, About, Skills, Experience Table, Projects, Education Table, and Contact Details**.
 
 ---
