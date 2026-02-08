@@ -32,5 +32,8 @@ You can run this project locally in **any browser**.
 
 ## Screenshots 
 
+ 
 
 
+<img width="2560" height="1398" alt="Screenshot (896)" src="https://github.com/user-attachments/assets/f693e423-f988-442c-aedc-e89d17b806e9" />
+<img width="2560" height="1400" alt="Screenshot (897)" src="https://github.com/user-attachments/assets/525f605d-72a0-4f08-85a4-5f15b4e2e33f" />
