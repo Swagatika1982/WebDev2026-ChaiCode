@@ -14,18 +14,10 @@ It includes semantic sections like **Header/Name, About, Skills, Experience Tabl
 - Education section with a table
 - Contact details section with links (email, LinkedIn, GitHub, etc.)
 
-
----
-
 ## Setup (Run Locally)
-You can run this project locally in **any browser**.
+You can run this project locally in **any browser**. 
 
-### Option 1: Open directly
-1. Download or clone the repository.
-2. Open `index.html` by double-clicking it.
-3. The page will open in your default web browser.
-
-### Option 2: Using VS Code Live Server (Recommended)
+### Option 1: Using VS Code Live Server (Recommended)
 1. Install **VS Code**
 2. Install the extension: **Live Server**
 3. Right-click `index.html` → **Open with Live Server**
